@@ -1,4 +1,4 @@
-class HelloWorld {
+class test {
     public static void main(String[] args) {
         int door[] = new int [100];
         int n = 0;
